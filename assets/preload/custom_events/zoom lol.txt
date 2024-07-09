@@ -1,0 +1,3 @@
+this description was stupid so i removed it
+value1 = the zoom
+thats it :)
